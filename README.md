@@ -1,4 +1,4 @@
-# i_am_rich
+# flutter tune
 
 A new Flutter project.
 
